@@ -1,4 +1,4 @@
-package Ex2;
+package AbstractFactoryPattern.Ex1;
 
 public interface AbstractFactory<T> {
 

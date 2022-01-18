@@ -1,6 +1,4 @@
-package Ex2;
-
-import Ex2.EnumSingleton;
+package Singleton.Ex2;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package Ex1;
+package Singleton.Ex1;
 
 public class Main {
 

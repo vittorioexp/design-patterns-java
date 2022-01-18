@@ -1,5 +1,5 @@
 
-package Ex1.Animal;
+package AbstractFactoryPattern.Ex1.Animal;
 
 public class Duck implements Animal {
 

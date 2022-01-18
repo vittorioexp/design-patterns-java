@@ -1,6 +1,6 @@
-package Ex2.Shape;
+package AbstractFactoryPattern.Ex2.Shape;
 
-import Ex2.AbstractFactory;
+import AbstractFactoryPattern.Ex2.AbstractFactory;
 
 public class ShapeFactory implements AbstractFactory {
 

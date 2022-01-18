@@ -1,6 +1,6 @@
-package Ex2;
+package AbstractFactoryPattern.Ex2;
 
-import Ex2.Shape.Rectangle;
+import AbstractFactoryPattern.Ex2.Shape.Rectangle;
 
 public class Client {
     public static void main(String[] args) {

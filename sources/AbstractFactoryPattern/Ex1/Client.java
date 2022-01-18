@@ -1,10 +1,6 @@
-package Ex1;
+package AbstractFactoryPattern.Ex1;
 
-import Ex1.Animal.Animal;
-import Ex1.Animal.AnimalFactory;
-import Ex1.Animal.Duck;
-import Ex1.Color.Color;
-import Ex1.Color.ColorFactory;
+import AbstractFactoryPattern.Ex1.Animal.Duck;
 
 public class Client{
     public static void main(String[] args) {

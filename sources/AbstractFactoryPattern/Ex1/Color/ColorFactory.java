@@ -1,6 +1,6 @@
-package Ex1.Color;
+package AbstractFactoryPattern.Ex1.Color;
 
-import Ex1.AbstractFactory;
+import AbstractFactoryPattern.Ex1.AbstractFactory;
 
 public class ColorFactory implements AbstractFactory {
 

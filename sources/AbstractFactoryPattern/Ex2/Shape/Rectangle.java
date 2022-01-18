@@ -1,4 +1,4 @@
-package Ex2.Shape;
+package AbstractFactoryPattern.Ex2.Shape;
 
 public class Rectangle implements Shape {
 

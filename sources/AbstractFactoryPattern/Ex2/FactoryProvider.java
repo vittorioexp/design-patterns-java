@@ -1,6 +1,6 @@
-package Ex2;
+package AbstractFactoryPattern.Ex2;
 
-import Ex2.Shape.ShapeFactory;
+import AbstractFactoryPattern.Ex2.Shape.ShapeFactory;
 
 public class FactoryProvider {
 

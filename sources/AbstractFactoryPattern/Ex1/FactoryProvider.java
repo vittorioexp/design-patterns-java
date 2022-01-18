@@ -1,7 +1,7 @@
-package Ex1;
+package AbstractFactoryPattern.Ex1;
 
-import Ex1.Animal.AnimalFactory;
-import Ex1.Color.ColorFactory;
+import AbstractFactoryPattern.Ex1.Animal.AnimalFactory;
+import AbstractFactoryPattern.Ex1.Color.ColorFactory;
 
 public class FactoryProvider {
 

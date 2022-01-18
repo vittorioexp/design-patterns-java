@@ -1,6 +1,6 @@
-package Ex1.Animal;
+package AbstractFactoryPattern.Ex1.Animal;
 
-import Ex1.AbstractFactory;
+import AbstractFactoryPattern.Ex1.AbstractFactory;
 
 public class AnimalFactory implements AbstractFactory<Animal> {
 

@@ -1,4 +1,4 @@
-package Ex2;
+package Singleton.Ex2;
 
 /*
 
