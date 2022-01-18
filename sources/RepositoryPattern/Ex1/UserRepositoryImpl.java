@@ -3,6 +3,8 @@ package RepositoryPattern.Ex1;
 /*
 
 DAO seems a perfect candidate to access the data, and a repository is an ideal way to implement a business use-case.
+The implementations of DAO and repository look very similar because the User class is an anemic domain.
+And, a repository is just another layer over the data-access layer (DAO).
 
  */
 
